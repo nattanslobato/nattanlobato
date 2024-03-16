@@ -74,5 +74,6 @@ Atualmente sou bolsista PIBIC em um projeto para a empresa Eletrobras Furnas, on
 |Contato|Link|
 |---|---|
 |GitHub|[nattanslobato](https://github.com/nattanslobato)|
-|LinkedIn|[Nattan Lobato](www.linkedin.com/in/nattan-lobato-a64a95252)|
+|LinkedIn|[Nattan Lobato](https://www.linkedin.com/in/nattan-lobato-a64a95252)|
 |Instagram|[nattanlobatoev](https://www.instagram.com/nattanlobatoev/)|
+
